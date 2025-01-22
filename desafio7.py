@@ -1,0 +1,7 @@
+nome = str(input("digite seu nome")).strip()
+m = nome.upper()
+mi = nome.lower()
+print('{}'.format(m))
+print('{}'.format(mi))
+print('o numero de caractere do nome é {}'.format(len(nome) - nome.count(' ')))
+print ('O primeiro nome tem {}'.format(nome.find(' ')))

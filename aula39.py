@@ -1,0 +1,8 @@
+fut = ('Botafogo','Palmeiras','Fortaleza','São Paulo','Internacional','Bahia','Cruzeiro','Atletico - MG','Vasco')
+print(f'Os cincos primeiros colocados foram: {fut[0:5]}')
+print(20 * '~~~~')
+print(f'Os ultimos 4 colocados foram {fut[5:]}')
+print(20 * '~~~~')
+print(f'Lista organizadas em ordem alfabetica:{sorted(fut)}')
+print(20 * '~~~~')
+print(f'O time do internacional está na {fut.index('Internacional')+1} posiçao na tabela do brasileirao ')

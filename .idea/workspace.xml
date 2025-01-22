@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ea39f5c-183b-4654-98fa-8d65dcd1d9b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CursoPY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA37 TUPLAS INICIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AULA49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula 14calculadora ou tabuada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula 8 imc(olhe aqui para faculdade).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula a parte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula a parte12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula11 estrutura de repetiçao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula20.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula24.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula25.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula26.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula27.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula4.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula41teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula43teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula45teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula46.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula49.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula54.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula6(facil demais).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula9 pedra, papel e tesoura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula9.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulafacul2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulafaculdade for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulafaculdade1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/break aula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impa ou par.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/potencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recapitulaçaomodulo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resumo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplesaula43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testestefunçao.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hYirySHDsv7YtSSbraTFzr8H7M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.9.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AULA37 TUPLAS INICIO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AULA49.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula 14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula 14calculadora ou tabuada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula 27.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula 8 imc(olhe aqui para faculdade).executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula a parte.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula a parte12 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula11 estrutura de repetiçao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula20.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula24.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula25.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula26.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula27.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula33.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula38.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula4.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula41teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula43teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula45.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula45teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula46.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula46.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula48.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula49.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula50.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula51.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula52.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula53.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula54.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula54.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula55.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula6(facil demais).executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula9 pedra, papel e tesoura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula9.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aulafacul2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aulafacul3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aulafaculdade for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aulafaculdade1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.break aula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.impa ou par.executor&quot;: &quot;Run&quot;,
+    &quot;Python.potencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recapitulaçaomodulo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.resumo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testestefunçao.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.aula54">
+    <configuration name="aula a parte" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPY" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula a parte.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula54" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPY" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula54.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula55" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPY" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula55.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CursoPY" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recapitulaçaomodulo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPY" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recapitulaçaomodulo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPY" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula54" />
+        <item itemvalue="Python.aula55" />
+        <item itemvalue="Python.recapitulaçaomodulo1" />
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.aula a parte" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ea39f5c-183b-4654-98fa-8d65dcd1d9b2" name="Changes" comment="" />
+      <created>1717777614146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717777614146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
