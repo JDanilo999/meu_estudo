@@ -1,0 +1,8 @@
+n = int(input('digite um numero'))
+print(type(n))
+p = str(input('Digite uma palavra'))
+print(type(p))
+f = float(input('digite um numero com ponto'))
+print(type(f))
+b = bool(input('digite qualquer coisa ou nada'))
+print(type(b))
